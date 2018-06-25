@@ -1,4 +1,4 @@
-# SonarAnimation
+# TypingView
 
 ![Demonstation](Resources/Gif.gif)
 
